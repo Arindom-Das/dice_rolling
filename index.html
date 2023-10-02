@@ -8,12 +8,16 @@
     <title>Rolling Dice</title>
 </head>
 <body>
-    <div id="no">
-    <label id="xlabel">0</label><br>
-<div id="on">
-    <button type="button" id="rollButton">ROLL</button>
-    <button type="button" id="resetButton">RESET</button>
-</div>
+    <div id="container">
+        
+        <div id="dice">
+            <div id="loading" class="loading"></div>
+            <span id="number">0</span>
+        </div>
+        <div id="buttons">
+            <button id="rollButton">ROLL</button>
+            <button id="resetButton">RESET</button>
+        </div>
     </div>
     <script src="index.js"></script>
 </body>
