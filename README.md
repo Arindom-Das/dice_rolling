@@ -1,4 +1,8 @@
-EXPLAINATION :
+<h1>🎲 ROLLING DICE 🎲</h1>
+
+<h4> TO SEE THE WORKING PROJECT CLICK ON THIS LINK :</h4>🔎  https://fantastic-unicorn-79c12d.netlify.app/
+
+<h4>EXPLAINATION :</h4>
 
 The code snippet you provided is written in JavaScript. 
 It appears to handle the functionality of rolling a dice and displaying the result on a webpage. 
