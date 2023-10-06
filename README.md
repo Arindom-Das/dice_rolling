@@ -1,6 +1,6 @@
 <h1>🎲 ROLLING DICE 🎲</h1>
 
-<h4> TO SEE THE WORKING PROJECT CLICK ON THIS LINK :</h4>🔎  https://fantastic-unicorn-79c12d.netlify.app/
+<h4> TO SEE THE WORKING PROJECT CLICK ON THIS LINK :</h4>🔎  https://1-rolling-dice.netlify.app/
 
 <h4>EXPLAINATION :</h4>
 
