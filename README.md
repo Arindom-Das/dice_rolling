@@ -18,4 +18,5 @@ Finally, it sets "isLoading" to false.
 
 The "resetButton" event listener resets the state of the variables and displays to their initial values.
 
-Please note that this code snippet assumes the existence of HTML elements with specific IDs ("rollButton", "loading", "number", "resetButton") on the webpage. 
+Please note that this code snippet assumes the existence of HTML elements
+with specific IDs ("rollButton", "loading", "number", "resetButton") on the webpage. 
